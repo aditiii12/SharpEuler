@@ -32,6 +32,8 @@ data/flux/
 checkpoints/*.pth
 checkpoints/*.pt
 checkpoints/*.ckpt
+!checkpoints/fm_branchy_flower_3.pth
+!checkpoints/fm_rotgrid.pth
 results/
 *.log
 .cache/
