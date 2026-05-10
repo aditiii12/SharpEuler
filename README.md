@@ -70,12 +70,14 @@ Paths in these scripts are currently hardcoded for our setup; edit the constants
 
 ## Citation
 
+If you find this work useful for your research, please consider citing:
+
 ```bibtex
 @article{sharpeuler2026,
   title  = {Sharpness-Aware Flow Matching},
-  author = {Gupta, Aditi and others},
+  author = {Gupta, Aditi and Lim, Soon Hoe and Yu, Annan and Erichson, N. Benjamin},
   year   = {2026},
-  note   = {NeurIPS 2026 submission}
+  note   = {arXiv preprint (link forthcoming)}
 }
 ```
 
