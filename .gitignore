@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual envs
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Heavy / regeneratable
+data/toy/
+data/flux/
+checkpoints/*.pth
+checkpoints/*.pt
+checkpoints/*.ckpt
+results/
+*.log
+.cache/
+wandb/
+
+# OS
+Thumbs.db
