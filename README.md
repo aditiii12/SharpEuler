@@ -1,6 +1,6 @@
 # SharpEuler: Sharpness-Aware Flow Matching
 
-Official implementation of Sharpness-Aware Flow Matching
+Official implementation of Sharpness-Aware Flow Matching - https://arxiv.org/pdf/2605.11547
 
 ## Installation
 
