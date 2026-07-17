@@ -77,7 +77,6 @@ If you find this work useful for your research, please consider citing:
   title  = {Sharpness-Aware Flow Matching},
   author = {Gupta, Aditi and Lim, Soon Hoe and Yu, Annan and Erichson, N. Benjamin},
   year   = {2026},
-  note   = {arXiv preprint (link forthcoming)}
 }
 ```
 
